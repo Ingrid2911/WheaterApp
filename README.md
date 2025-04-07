@@ -23,6 +23,4 @@ A Java-based console application that allows users to create accounts which cont
 - Managing user sessions and permissions
 - Parsing JSON for weather data extraction
 
-## 🏗️ Project Status
-✅ Completed  
 📌 Solo project
