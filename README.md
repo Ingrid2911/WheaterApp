@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A Java-based console application that allows users to create accounts which contains username, password, current location (longitutde and latitude) and a role for the user. The user can ask for the whater in the current location. If the role for the user is admin, he can add a json file with other weather data which will be automatically added in the database. Also, the user can choose the option to update his location, so the weather forecast will be for the new location. Communication is handled via WebSocket.
+A Java-based console application that allows users to create accounts which contains username, password, current location (longitutde and latitude) and a role for the user. The user can ask for the weather in the current location. If the role for the user is admin, he can add a json file with other weather data which will be automatically added in the database. Also, the user can choose the option to update his location, so the weather forecast will be for the new location. Communication is handled via WebSocket.
 ## 🔧 Technologies Used
 - Java
 - cool.scx.data.jdbc.sqlite2 (SQLite JDBC driver)
